@@ -1,7 +1,10 @@
 /*
 
-   IR Recorder: Modified version of IRrecvDemo by Ken Shirrif, see
-   original copyright notice below.
+   IR Recorder: Modified version of IRrecvDemo by Ken Shirrif:
+   
+   https://github.com/z3t0/Arduino-IRremote/blob/master/examples/IRrecvDemo/IRrecvDemo.ino
+   
+   (see original copyright notice below.)
 
    I have simply modified the output to print the received codes in
    unsigned long format rather than hexadecimal. This makes it easier
