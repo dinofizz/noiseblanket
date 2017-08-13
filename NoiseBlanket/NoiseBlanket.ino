@@ -167,6 +167,9 @@ void errorLoop() {
   }
 }
 
+/*
+  Blinks the activity LED once every ACTIVITY_INTERVAL_MILLIS.
+*/
 void activityBlink() {
   unsigned long currentMillis = millis();
   unsigned long deltaMillis = currentMillis - savedMillis;
