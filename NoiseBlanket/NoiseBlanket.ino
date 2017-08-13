@@ -27,6 +27,8 @@ decode_results results;
 #define VOLUME_UP   3223725573
 #define VOLUME_DOWN 694752261
 #define POWER       3243761281
+// [Dino] the following codes are unused, but I have included them here
+//  for future reference
 #define PLAY_PAUSE  1987354549
 #define STOP        2262137829
 #define MUTE        3155862785
