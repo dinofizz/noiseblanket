@@ -8,6 +8,7 @@ I found that playing white noise found on various Spotify playlists (this one is
 So to help me fall asleep and relax in the bedroom I put together a remote control capable Arduino-based white noise player, using the Adafruit Wave Shield and an IR receiver from SparkFun. This allows me to use my phone to watch Netflix or YouTube, whilst still having the white noise play in the background.
 
 A more detailed description of this project can be found on my blog:
+https://www.dinofizzotti.com/blog/2017-08-21-noiseblanket-arduino-white-noise-player-with-ir-remote-control/
 
 # Repo contents
 
